@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Main {
     public static boolean solve(String s, int ind, long prev) {
         if (ind == s.length()) {
