@@ -1,1 +1,0 @@
-Write a program to analyze a text file, counting words, lines, and characters. Implement functionality to search for specific words. Utilize file I/O, string manipulation, and exception handling. This task strengthens your file-handling skills and text-processing abilities in Java. 
